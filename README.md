@@ -1,15 +1,17 @@
-# undefined
-  ![GitHub License](https://img.shields.io/badge/license-GNU GPL 3.0-yellow.svg)
+# README Generator
+  ![GitHub License](https://img.shields.io/badge/license-GNU-yellow.svg)
 
   ## Description
 
-  This project is created to help people quickly and easily generate a README file for their coding work and projects
+  This project is intended to allow users to quickly and easily generate a README.md file for their project.
 
   ## Table of Contents
 
   * [Installation](#installation)
 
   * [Usage](#usage)
+
+  * [Credits](#credits)
   
   * [License](#license)
 
@@ -29,7 +31,7 @@
 
   ## Usage
 
-  Instructions
+  N/A
 
   ## Credits
 
@@ -37,23 +39,23 @@
 
   ## License
 
-  This project is licensed using the GNU GPL 3.0 license.'
+  This project is licensed using the GNU license.'
 
   ## Badges
 
-  ![GitHub License](https://img.shields.io/badge/license-GNU GPL 3.0-yellow.svg)
+  ![GitHub License](https://img.shields.io/badge/license-GNU-yellow.svg)
 
   ## Features
 
-  Features
+  N/A
 
   ## Contribution
 
-  Contribution instructions
+  Please reach out to me at kennedy.christopherian@gmail.com
 
   ## Tests
 
-  Test section
+  N/A
 
   ## Questions
 
