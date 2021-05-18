@@ -58,7 +58,7 @@ function generateMarkdown(data) {
 
   ## Installation
 
-  ${data.installation}
+  For this project to run properly, install the necessary dependencies by using the following terminal command: ${data.installation}
 
   ## Usage
 
@@ -74,7 +74,7 @@ function generateMarkdown(data) {
 
   ## Badges
 
-  
+  ${renderLicenseBadge(data.license)}
 
   ## Features
 
