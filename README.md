@@ -3,7 +3,7 @@
 
   ## Description
 
-  This project is intended to create a simple and useful README for people working on coding projects. 
+  This project is intended to allow users to quickly and easily generate a README.md file for their project.
 
   ## Table of Contents
 
@@ -31,31 +31,20 @@
 
   ## Usage
 
-  Examples and instructions.
-
-  ## Credits
-
-  N/A
+  ![YouTube Walkthrough](https://youtu.be/lAGS5LHoTjw)
 
   ## License
 
-  This project is licensed using the MIT license.'
+  This project is licensed using the MIT license.
 
   ## Badges
 
   ![GitHub License](https://img.shields.io/badge/license-MIT-yellow.svg)
 
-  ## Features
-
-  Features!
 
   ## Contribution
 
-  Contribution instructions. 
-
-  ## Tests
-
-  N/A
+  Please reach out to me at kennedy.christopherian@gmail.com
 
   ## Questions
 
