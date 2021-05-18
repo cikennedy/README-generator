@@ -70,7 +70,7 @@ function generateMarkdown(data) {
 
   ${renderLicenseSection(data.license)}
 
-  This project is licensed using the ${data.license} license.'
+  This project is licensed using the ${data.license} license.
 
   ## Badges
 
