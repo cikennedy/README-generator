@@ -42,6 +42,11 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'features',
+        message: "If your project has a lot of features, list them here.",
+    },
+    {
+        type: 'input',
         name: 'contributing',
         message: "If you would like others to contribute, please include guidelines for how to do so.",
     },
