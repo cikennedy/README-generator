@@ -27,12 +27,38 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message: "",
+        message: "Please provide instructions and examples for use.",
     },
     {
         type: 'input',
-        name: 'project',
-        message: "",
+        name: 'credits',
+        message: "List collaborators if any (links to GitHub profiles), or links to any tutorials or third-party assets that require attribution.",
+    },
+    {
+        type: 'list',
+        name: 'license',
+        message: "Choose a license for your project.",
+        choices: ['ISC', 'MIT', 'Apache License 2.0', 'GNU GPL 3.0', 'Other', 'None'],
+    },
+    {
+        type: 'input',
+        name: 'contributing',
+        message: "If you would like others to contribute, please include guidelines for how to do so.",
+    },
+    {
+        type: 'input',
+        name: 'tests',
+        message: "Please provide examples on how to run tests if you have created tests.",
+    },
+    {
+        type: 'input',
+        name: 'github',
+        message: "Please provide your GitHub username.",
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: "Please provide your email address.",
     },
 ];
 
