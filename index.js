@@ -47,7 +47,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'contributing',
+        name: 'contribution',
         message: "If you would like others to contribute, please include guidelines for how to do so.",
     },
     {

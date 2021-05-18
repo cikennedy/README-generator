@@ -38,6 +38,44 @@ function generateMarkdown(data) {
 
   * [Questions](#questions)
 
+  ## Installation
+
+  ${data.installation}
+
+  ## Usage
+
+  ${data.usage}
+
+  ## Credits
+
+  ${data.credits}
+
+  ## License
+
+  ${data.license}
+
+  ## Badges
+
+  
+
+  ## Features
+
+  ${data.features}
+
+  ## Contribution
+
+  ${data.contribution}
+
+  ## Tests
+
+  ${data.tests}
+
+  ## Questions
+
+  If you have any questions or feedback about the project, please contact me by email at [${data.email}](mailto:${data.email}). 
+
+  Other projects and work are featured at [${data.github}](https://github.com/${data.github}).
+
 `;
 }
 
