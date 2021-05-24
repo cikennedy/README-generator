@@ -31,7 +31,7 @@
 
   ## Usage
 
-  ![YouTube Walkthrough](https://www.youtube.com/watch?v=lAGS5LHoTjw)
+  [YouTube Walkthrough](https://www.youtube.com/watch?v=lAGS5LHoTjw)
 
   ## License
 
